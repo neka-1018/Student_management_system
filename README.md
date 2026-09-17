@@ -157,9 +157,3 @@ Place screenshots in the `screenshots/` folder:
 - Add student photo upload
 - Deploy backend and frontend to the cloud
 
-## 16. GitHub
-Repository: [GitHub Repository URL]
-
-```
-git clone [GitHub Repository URL]
-```
